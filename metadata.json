@@ -1,0 +1,5 @@
+{
+  "name": "Random Number List",
+  "description": "An app that allows users to add random numbers to a list and clear them.",
+  "requestFramePermissions": []
+}
